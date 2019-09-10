@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="great-push" version="2.0.6">
+	<name>GreatPushAcquisition</name>
+	<description>GreatPush Acquisition Plugin for Apache Cordova</description>
+	<license>MIT</license>
+	<keywords>cordova,code,push,acquisition</keywords>
+	<repo>https://github.com/Microsoft/great-push.git</repo>
+	<js-module src="script/acquisition-sdk.js" name="AcquisitionManager">
+		<merges target="window" />
+	</js-module>
+</plugin>

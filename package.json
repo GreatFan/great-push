@@ -1,0 +1,54 @@
+{
+  "_from": "great-push@2.0.6",
+  "_id": "great-push@2.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-+04UDJD9t/oEfzvm9TyqzIkV0Lg=",
+  "_location": "/great-push",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "great-push@2.0.6",
+    "name": "great-push",
+    "escapedName": "great-push",
+    "rawSpec": "2.0.6",
+    "saveSpec": null,
+    "fetchSpec": "2.0.6"
+  },
+  "_requiredBy": [
+    "/react-native-great-push"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/great-push/download/great-push-2.0.6.tgz",
+  "_shasum": "fb4e140c90fdb7fa047f3be6f53caacc8915d0b8",
+  "_spec": "great-push@2.0.6",
+  "_where": "/Users/fanshaogui/Documents/GreatGit/lve-3.4.0/lve/node_modules/react-native-great-push",
+  "author": {
+    "name": "Microsoft Corporation"
+  },
+  "bugs": {
+    "url": "https://github.com/Microsoft/great-push/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "q": "^1.4.1",
+    "recursive-fs": "0.1.4",
+    "slash": "1.0.0",
+    "superagent": "^3.8.0",
+    "superagent-proxy": "^1.0.3",
+    "yazl": "^2.4.1"
+  },
+  "deprecated": false,
+  "description": "Management SDK for the GreatPush service",
+  "homepage": "https://microsoft.github.io/great-push",
+  "license": "MIT",
+  "main": "script/index.js",
+  "name": "great-push",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsoft/great-push.git"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "version": "2.0.6"
+}
